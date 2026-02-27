@@ -24,12 +24,12 @@ The system needs to determine:
 
 Declare the following variables:
 
-- firstName (string)
-- age (number)
-- annualIncome (number)
-- creditScore (number)
-- isCitizen (boolean)
-- hasCriminalRecord (boolean)
+- `firstName` (string)
+- `age` (number)
+- `annualIncome` (number)
+- `creditScore` (number)
+- `isCitizen` (boolean)
+- `hasCriminalRecord` (boolean)
 
 Assign them realistic values.
 
